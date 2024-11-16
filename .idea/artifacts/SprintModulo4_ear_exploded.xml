@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" build-on-make="true" name="SprintModulo4:ear exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/SprintModulo4_ear_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="SprintModulo4/javaeeApplication/javaEEApplication" />
+      <element id="directory" name="web.war">
+        <element id="artifact" artifact-name="SprintModulo4:war exploded" />
+      </element>
+      <element id="library" level="project" name="SprintModulo4" />
+    </root>
+  </artifact>
+</component>
